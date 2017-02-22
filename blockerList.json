@@ -1,0 +1,18 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "https://scontent-dft4-2.xx.fbcdn.net/v/t39.1997-6/p...x.../16344631_1846059619003269_2434487372902039552_n.png"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "http://i.imgur.com/dbyYPiy.gif"
+        }
+    }
+]
